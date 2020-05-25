@@ -1,0 +1,8 @@
+.dashboard-header{
+    font-size: 2.5rem;
+}
+#logoutButton{
+    position: absolute;
+    left: 90%;
+    top: 6%;
+}

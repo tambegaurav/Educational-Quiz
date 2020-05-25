@@ -1,0 +1,12 @@
+#signUpButton{
+    margin-left: 10px;
+}
+h1{
+    font-size: 0.8rem;
+}
+#logo{
+    height: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
